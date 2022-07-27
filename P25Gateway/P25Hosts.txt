@@ -629,3 +629,6 @@
 
 # 74315 Kazakhstan P25
 74315	ysf.01dx.kz	41000
+
+# 75000 Iowa P25
+75000 P25.Dogitech.net 41000
